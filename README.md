@@ -1,4 +1,4 @@
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/b08b5981-3171-4543-abee-a10128c71c8b" /># StaffFlow
+StaffFlow
 Full-stack StaffFlow System built with MERN stack. Features secure JWT authentication, role-based access for admin and users, profile editing, and employee management (view, update, delete). Modern responsive UI using React &amp; Bootstrap for seamless experience
 
 StaffFlow is a modern MERN stack application designed to simplify employee and admin workflows. It provides secure authentication, profile management, and a robust admin dashboard for managing staff efficiently.
