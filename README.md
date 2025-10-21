@@ -32,7 +32,10 @@ git clone https://github.com/yourusername/staffflow.git
 cd staffflow
 
 # Install dependencies for both frontend and backend
-npm install
+Frontend: npm install axios bootstrap react-router-dom
+
+Backend: npm init -y
+npm install express mongoose cors dotenv bcryptjs jsonwebtoken nodemon
 
 # Run the backend server
 cd server
